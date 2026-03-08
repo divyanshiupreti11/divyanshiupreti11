@@ -15,10 +15,20 @@
 - 💡 Building projects with MERN + AI APIs
 
 ---
+## 🛠 Tech Stack
 
-### 🛠 Tech Stack
+<p align="center">
 
-C++ | JavaScript | React | Node.js | MongoDB | Git | GitHub
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,git,github"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshiupreti11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshiupreti11&layout=compact&theme=tokyonight)
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=divyanshiupreti11&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshiupreti11&layout=compact&theme=tokyonight"/>
+
+</p>
