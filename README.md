@@ -29,6 +29,6 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshiupreti11&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshiupreti11&layout=compact&theme=tokyonight"/>>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshiupreti11&layout=compact&theme=tokyonight"/>
 
 </p>
