@@ -4,13 +4,17 @@
 🚀 Full Stack Developer | 💻 MERN Stack | 🤖 AI Integration
 </p>
 
+<p align="center">
+Passionate about building scalable web applications and integrating AI into real-world products.
+</p>
+
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student  
-- 📚 Currently learning **DSA and Full Stack Development**  
-- 🤖 Interested in **AI-powered applications**  
+- 📚 Currently learning **Data Structures & Algorithms** and **Full Stack Development**  
+- 🤖 Interested in **AI-powered web applications**  
 - 💡 Building projects using **MERN Stack + AI APIs**
 
 ---
@@ -25,13 +29,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshiupreti11&show_icons=true&theme=tokyonight&v=2"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshiupreti11&show_icons=true&theme=tokyonight&v=2"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshiupreti11&layout=compact&theme=tokyonight&v=2"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshiupreti11&layout=compact&theme=tokyonight&v=2"/>
 
 </p>
 
