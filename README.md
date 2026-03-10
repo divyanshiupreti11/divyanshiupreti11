@@ -3,9 +3,13 @@
 <p align="center">
 🚀 Full Stack Developer | 💻 MERN Stack | 🤖 AI Integration
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=divyanshiupreti11&label=Profile%20Views&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/divyanshiupreti11/divyanshiupreti11)
-![Repo Size](https://img.shields.io/github/repo-size/divyanshiupreti11/divyanshiupreti11)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=divyanshiupreti11&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/divyanshiupreti11/divyanshiupreti11?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/divyanshiupreti11/divyanshiupreti11?style=for-the-badge"/>
+
+</p>
 
 <p align="center">
 Passionate about building scalable web applications and integrating AI into real-world products.
