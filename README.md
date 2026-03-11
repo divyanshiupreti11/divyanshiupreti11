@@ -50,6 +50,10 @@ Passionate about building scalable web applications and integrating AI into real
 </p>
 
 ---
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshiupreti11&theme=tokyo-night"/>
+</p>
+
 
 ## 🔥 GitHub Streak
 
