@@ -40,11 +40,6 @@ Passionate about building scalable web applications and integrating AI into real
 ---
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshiupreti11&theme=tokyonight&row=1&column=6" alt="github trophies" />
-</p>
 
 ## 📊 GitHub Statistics
 
