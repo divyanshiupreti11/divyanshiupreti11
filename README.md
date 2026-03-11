@@ -52,7 +52,7 @@ Passionate about building scalable web applications and integrating AI into real
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=divyanshiupreti11&theme=tokyonight&hide_border=true&border_radius=8&timezone=Asia/Kolkata" />
+<img src="https://streak-stats.demolab.com?user=divyanshiupreti11&theme=tokyonight&hide_border=true&border_radius=8&timezone=Asia/Kolkata&v=1" />
 
 </p>
 
