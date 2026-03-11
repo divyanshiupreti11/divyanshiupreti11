@@ -51,7 +51,7 @@ Passionate about building scalable web applications and integrating AI into real
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=divyanshiupreti11&theme=tokyonight&hide_border=true&border_radius=8" />
+<img src="https://streak-stats.demolab.com?user=divyanshiupreti11&theme=tokyonight&hide_border=true&border_radius=8&v=1" />
 </p>
 
 ---
