@@ -33,7 +33,7 @@ Passionate about building scalable web applications and integrating AI into real
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,git,github,vscode,html,css,c"/>
 
 </p>
 
