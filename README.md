@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshi</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Integration+Enthusiast;DSA+Learner&center=true&width=500&height=45">
+</p>
 
 <p align="center">
 🚀 Full Stack Developer | 💻 MERN Stack | 🤖 AI Integration
