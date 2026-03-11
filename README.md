@@ -39,8 +39,8 @@ Passionate about building scalable web applications and integrating AI into real
 
 ---
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/divyanshiupreti11?theme=dark&font=Nunito&ext=contest"/>
-</p> 
+<img src="https://leetcard.jacoblin.cool/divyanshi_upreti08?theme=dark&font=Nunito&ext=contest"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
